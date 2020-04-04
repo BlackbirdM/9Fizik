@@ -1,6 +1,5 @@
-# 9Fizik
+Öğrenci Bilgilerim
 ---
-##Öğrenci bilgilerim:
-Mustafa Karakuş
-79
-9/E
+***Mustafa Karakuş***
+***79***
+***9/E***
