@@ -44,6 +44,7 @@
       |           SIZE         | CALORI |
       | :---------------------:| :----: |
       |  For one person        |  1193  |
+      |  100 gr.               |  147   |
       |  All of menemen        |  4772  |
       
       # VÜCUT KİTLE İNDEKSİ
