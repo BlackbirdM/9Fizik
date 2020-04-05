@@ -27,18 +27,21 @@
 
 - 1 tea cup olive oil
 
-***RECIPE***:
+ ***RECIPE***:
 
-1. Firstly, we peeling the potatoes and washing them then we dividing potatoes four and slice them.
+ 1. Firstly, we peeling the potatoes and washing them then we dividing potatoes four and slice them.
 
-2. We add oil into the pan and when the oil gets hot we add potatoes into the pan.
+ 2. We add oil into the pan and when the oil gets hot we add potatoes into the pan.
 
-3. We chop onions and peppers, add over the potatoes.
+ 3. We chop onions and peppers, add over the potatoes.
 
-4. We peel the tomatoes and chop them.Then add the pan with salt and ground pepper and we mixing them.
+ 4. We peel the tomatoes and chop them.Then add the pan with salt and ground pepper and we mixing them.
 
-5. Then we break the egg on it and sprinkle salt.Then we close the pan again.
+ 5. Then we break the egg on it and sprinkle salt.Then we close the pan again.
 
-6. When eggs congeal we add black pepper( Optional) and serve.
+ 6. When eggs congeal we add black pepper( Optional) and serve.	 ***Enjoy your meal***
 
-		***Enjoy your meal***
+      |           SIZE         | CALORI |
+      | :---------------------:| :----: |
+      |  For one person        |  1193  |
+      |  All of menemen        |  4772  |
