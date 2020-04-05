@@ -45,3 +45,11 @@
       | :---------------------:| :----: |
       |  For one person        |  1193  |
       |  All of menemen        |  4772  |
+      
+      # VÜCUT KİTLE İNDEKSİ
+       | AİLE BİREYLERİ  | KÜTLE DEĞERİ(kg) | BOY UZUNLUĞU(m) | BEDEN  KİTLE İNDEKSİ(kg/m²) |     SONUÇ     |
+       | :-------------: | :--------------: | :-------------: | :-------------------------: | :-----------: |
+       |     ANNEM       |      **77**      |    **1.62**     |          **29.34**          |  fazla kilolu |
+       |     BABAM       |      **90**      |    **1.77**     |          **28.73**          |  fazla kilolu |
+       |     BEN         |      **70**      |    **1.72**     |          **23.66**          |  fazla kilolu |   
+       |     KARDEŞİM    |      **71**      |    **1.60**     |          **27.73**          |  fazla kilolu |
