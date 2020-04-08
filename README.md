@@ -41,7 +41,7 @@
 
  6. When eggs congeal we add black pepper( Optional) and serve.	 ***Enjoy your meal***
 
-     ![patatesli menemen](https://hizliresim.com/aeM2S5)
+     ![patatesli menemen][url=https://hizliresim.com/aeM2S5][img]https://i.hizliresim.com/aeM2S5.jpg[/img][/url]
 
       |           SIZE         | CALORI |
       | :---------------------:| :----: |
