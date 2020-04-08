@@ -40,6 +40,7 @@
  5. Then we break the egg on it and sprinkle salt.Then we close the pan again.
 
  6. When eggs congeal we add black pepper( Optional) and serve.	 ***Enjoy your meal***
+     ![patatesli menemen](https://hizliresim.com/aeM2S5)
 
       |           SIZE         | CALORI |
       | :---------------------:| :----: |
